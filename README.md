@@ -20,7 +20,9 @@ Clone the repository
 ```bash
 https://github.com/Faizack/Kidney-Disease-Classification
 ```
-### STEP 01- Create a conda environment after opening the repository
+### STEP 01- Install Python 3.8 version
+
+download from https://www.python.org/downloads/
 
 ```bash
 py -3.8 -venv env
