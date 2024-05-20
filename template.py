@@ -10,6 +10,7 @@ project_name = 'cnnClassifier'
 list_of_files = [
     ".github/workflows/.gitkeep",
     ".gitignore",
+    ".env",
     "README.md",
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
@@ -25,7 +26,8 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
-    "templates/index.html"
+    "templates/index.html",
+    "docs/examples.md"
 
 
 ]
